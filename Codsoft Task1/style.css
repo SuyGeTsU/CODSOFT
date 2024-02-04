@@ -21,7 +21,6 @@ header {
 
 #name{
     display: inline-block;
-    text-decoration: underline dotted;
     padding: 10px;
     border: 2px solid #81a0b6;
     border-radius: 25px; 
